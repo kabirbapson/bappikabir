@@ -9,6 +9,7 @@
 + folder structure
 + tailwind css
 + swiper js
+
 + react icons
 + react js packages (ex:react-modal)
 + email js
