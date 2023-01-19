@@ -15,11 +15,8 @@ const App = () => {
       <Service />
       <Projects />
       <Testimonials />
-
-      
       <Hireme />
       <Contact />
-      
     </div>
   );
 };
